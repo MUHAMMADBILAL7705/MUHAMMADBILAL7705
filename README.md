@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Bilal Arshad
-- 🤔    Associate Consultant at Clickchain Inc
-- 🎓    Studied Information Technology at the `Islamia University`, Bahawalpur.
+- 🤔    Software Engineer
+- 🎓    Studied Information Technology at Islamia University, Bahawalpur.
 - ☁     Experienced in Product development.
-- 🌱    Experienced in DevOps technologies including multiple cloud systems like AWS, Azure, and GCP. 
+- 🌱    Experienced in DevOps technologies, including multiple cloud systems like AWS, Azure, and GCP. 
 ## 🛠 &nbsp;Tech Stack
 <br>
 
